@@ -7,6 +7,7 @@
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1cJQqWrGOhZsAYArF1c5mj8uyiOFWRbUS
+access the application after deployment via: https://group-11-94fy4h4yq-aminas-projects-aadcf70c.vercel.app 
 
 ## Run Locally
 
